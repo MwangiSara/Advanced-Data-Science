@@ -5,3 +5,4 @@
 5.	Is there a significant difference in average sleep time between male and female students?
 6.	Does being an athlete affect a student's average study time?
 
+Answers are here: https://github.com/MwangiSara/Advanced-Data-Science/blob/master/inferential%20EDA/inferential%20assignment.ipynb 
